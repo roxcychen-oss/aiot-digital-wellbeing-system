@@ -43,10 +43,9 @@ AIoT Digital Wellbeing &amp; Behavioral Intervention Prototype
 
 ## 🚀 專案展示與亮點 (Demo & Highlights)
 
-* **動態操作展示**：
-
-<img width="600" alt="AIOT digital behavioral" src="https://github.com/user-attachments/assets/10a3312b-330e-4226-9616-20ddd2d8f939" />
-
 * **設計亮點**：兼顧使用者體驗 (UX) 與行為科學，跳脫傳統冰冷的錯誤畫面，以「遊戲化挑戰」化解防沉迷機制的對立感。
 
+* **動態操作展示**：
+以下為系統實際運作與遊戲化破關的動態演示：
 
+![AIOT digital behavioral](https://github.com/user-attachments/assets/10a3312b-330e-4226-9616-20ddd2d8f939)
