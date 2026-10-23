@@ -1,4 +1,4 @@
-<img width="600" height="289" alt="AIOT digital behavioral" src="https://github.com/user-attachments/assets/56b44432-0e10-46f5-8c2b-d2f4bdd96a4c" />
+<img width="800" height="385" alt="AIOT digital behavioral (1)" src="https://github.com/user-attachments/assets/36987e44-02c8-4d33-b1ef-0da598586147" />
 
 # aiot-digital-wellbeing-system
 AIoT Digital Wellbeing &amp; Behavioral Intervention Prototype
