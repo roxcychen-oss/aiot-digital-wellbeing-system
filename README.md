@@ -1,3 +1,8 @@
+<img width="600" height="289" alt="AIOT digital behavioral" src="https://github.com/user-attachments/assets/56b44432-0e10-46f5-8c2b-d2f4bdd96a4c" />
+<img width="600" height="289" alt="AIOT digital behavioral" src="https://github.com/user-attachments/assets/dfbd5143-f903-4e83-ab36-6fe5d0459986" />
+<img width="600" height="289" alt="AIOT digital behavioral" src="https://github.com/user-attachments/assets/e768c8c0-5597-4da3-9088-1e0fd9968689" />
+
+
 # aiot-digital-wellbeing-system
 AIoT Digital Wellbeing &amp; Behavioral Intervention Prototype
 # 🛡️ AIoT 數位健康與行為干預系統 (Digital Wellbeing & Behavioral Intervention Prototype)
@@ -45,7 +50,4 @@ AIoT Digital Wellbeing &amp; Behavioral Intervention Prototype
 
 * **設計亮點**：兼顧使用者體驗 (UX) 與行為科學，跳脫傳統冰冷的錯誤畫面，以「遊戲化挑戰」化解防沉迷機制的對立感。
 
-* **動態操作展示**：
-以下為系統實際運作與遊戲化破關的動態演示：
-
-![AIOT digital behavioral](https://github.com/user-attachments/assets/10a3312b-330e-4226-9616-20ddd2d8f939)
+* **動態操作展示**：[![Watch Demo](https://img.shields.io/badge/🎥_點擊觀看系統操作示範-Click_Here-blue?style=for-the-badge)](https://github.com/user-attachments/assets/10a3312b-330e-4226-9616-20ddd2d8f939)
